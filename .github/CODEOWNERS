@@ -1,0 +1,4 @@
+# Default review owner for every path.
+# Approval requirements are controlled separately by repository protection rules.
+
+* @MichaelTMGolden
